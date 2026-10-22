@@ -2,3 +2,7 @@ Cardápio do restaurante:
 1 - Churrasco
 2 - Lasanha
 3 - Panqueca
+4 - Suco de maracuja
+5 - Suco de cupuaçu
+6 - Sorvete de morango
+7 - Sorvete de chocolate
