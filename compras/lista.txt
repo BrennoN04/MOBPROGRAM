@@ -1,6 +1,6 @@
 Lista de compras:
 1 - Arroz
 2 - Feijão
-3 - Macarrão
+3 - Farinha
 4 - Café
 5 - Açúcar
