@@ -1,0 +1,4 @@
+Cardápio do restaurante:
+1 - Churrasco
+2 - Lasanha
+3 - Panqueca
